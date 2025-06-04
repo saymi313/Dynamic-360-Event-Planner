@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Lahore Food Festival",
+    "date": "2024-03-15T19:00:00",
+    "location": "Fortress Stadium, Lahore",
+    "description": "Experience the rich culinary heritage of Pakistan with top chefs and traditional delicacies",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Karachi Tech Summit",
+    "date": "2024-04-05T09:00:00",
+    "location": "Expo Center, Karachi",
+    "description": "Pakistan's largest technology conference featuring industry leaders and innovative startups",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Basant Festival",
+    "date": "2024-02-22T12:00:00",
+    "location": "Race Course Park, Lahore",
+    "description": "Celebrate the arrival of spring with kite flying, cultural performances, and traditional food",
+    "image": "https://images.unsplash.com/photo-1614851099511-773084f6911d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Islamabad Marathon",
+    "date": "2024-03-01T07:00:00",
+    "location": "F-9 Park, Islamabad",
+    "description": "Annual charity marathon supporting education initiatives across Pakistan",
+    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Traditional Wedding Expo",
+    "date": "2024-03-15T10:00:00",
+    "location": "Pearl Continental, Karachi",
+    "description": "Discover the finest wedding vendors and services for your special day",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Eid Festival",
+    "date": "2024-04-10T18:00:00",
+    "location": "Emporium Mall, Lahore",
+    "description": "Celebrate Eid with family entertainment, shopping, and cultural activities",
+    "image": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Corporate Gala Dinner",
+    "date": "2024-03-20T19:00:00",
+    "location": "Marriott Hotel, Islamabad",
+    "description": "Annual networking event for Pakistan's business leaders and entrepreneurs",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=2069&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Cultural Dance Festival",
+    "date": "2024-04-15T16:00:00",
+    "location": "Arts Council, Karachi",
+    "description": "Showcasing traditional Pakistani dance forms and cultural performances",
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2070&auto=format&fit=crop"
+  }
+]
